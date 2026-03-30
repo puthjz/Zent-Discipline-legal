@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Zent: Discipline — Build Daily Discipline
-description: Track your habits, build streaks, and get 1% better every day. Zent is the discipline app built for people who take their growth seriously.
+title: "Zent: Discipline — Build Daily Discipline"
+description: "Track your habits, build streaks, and get 1% better every day. Zent is the discipline app built for people who take their growth seriously."
 ---
 
 # Get 1% Better Every Day.
