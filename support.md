@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Support — Zent: Discipline
-description: Get help with Zent: Discipline. Contact support or browse frequently asked questions.
+title: "Support — Zent: Discipline"
+description: "Get help with Zent: Discipline. Contact support or browse frequently asked questions."
 ---
 
 # Support
